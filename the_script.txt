@@ -1,0 +1,119 @@
+ _____________________________________
+| ################################### |
+| the game senario for the story mode |
+| ################################### |
+|_____________________________________|
+
+
+charachters:
+	john santos:
+		he is a 25 years old man which is lonley without any family,
+		his mother died when he was 9 years old but he remeber her well,
+		his father left his mom once he was born and he grow up with his 
+		grandmother who loved him and treated him as her child and then
+		she died when he was 18 years old and then he took care of him self
+		he worked in a computer shop to bay for college he based with a major
+		in computer science with a lot to learn in his life,
+		he has a big interst in cybersecurity field and he always wanted to 
+		change the world we a living to be free from the hidden people 
+		who is  controling the world without our knowledge but the truth 
+		he know that we choosed this without knowing that the money is the 
+		currencey of deals and the controller of us and those  people choose choose the 
+		to stay in this positions as far as they can and the easy way to control us by brain washing 
+		and illusions because as soon as any human feel that he is the 
+		one in control he starts to make big decisions thats effects our 
+		far future thats make other geanrations suffers because of their 
+		desiries and feeling of power and control so he wanted to rescue the 
+		future but he felt that he is not that special but he can do anything 
+		for upcoming future.
+	safemaster:
+		it is a cybersecurity company which almost has no vulnerability and 
+		alot of other companies full depends on them for thier security system
+		and they are the number one leader in cyberscurity.
+	
+	jason hansen:
+		he was a 35 years old man who has a big experince in cybersecurity engineering
+		he works in a cyberscurity company called safemaster which was on the
+		biggest companies in that field and it was hard to get a job there 
+		without alot of requirements.
+
+	silvia hasnen:
+		she is jason hasnen's daughter with 24 years old she has just finished 
+		her college in information technology and prepaired to work with her 
+		father in safemaster but she had alot of skills to work on to make it.
+	
+	selina marshel:
+		she was jason hansen's wife and silvia's mother she works in
+		a school called semasters school of science as a math teacher
+		she had a normal life like any brain washed citizen in the world
+		she had little issues with her husband because she wasn't seeing
+		him much cause of his work.
+	
+	tony cisco:
+		he is the CEO of safemaster and he was young sucessful person because 
+		he knew how world works the right way and he was 48 years old he works 
+		hard for his company to be the first in that field and to be the most 
+		relayble company in that field and he was kind of mean too.
+
+	josh creiston:
+		CFO of safemaster and he is youngest excuctive in that company have 
+		ever seen and he always prefers to solve all the problems internaly 
+		by his self with a choosen team rather than highering someone from
+		outside the company and kills every vulnerability he finds also he is 
+		series about everything in buissness and a hard to deal with preson.
+
+beginning:
+	HAMOTA :
+		hello man probably you don't know who am i, i mean of course you don't 
+		because i am no one , i am just a number for people just like you 
+		who ever you are because we all are represinting something bigger than 
+		all of us something is hard to control only by one person but for your 
+		records it is possible but impossible and i always aim for the impossible 
+		so you should too to take control and respect of all other numbers 
+		just because they fear of your power that can change every thing 
+		by a command and you will change too beacuse of feeling of power 
+		because you are human how ever your behaviors was in the past but 
+		will change then other number try to take your place but you don't 
+		want him to do so , then you will try to stop him with all your 
+		power just to stay in that position but the thing that the one in 
+		your postion never realize is that nothing lasts forever enclouding 
+		yourself cause you are human not special we all are temporary 
+		only time controls our life as you may think but the thing that 
+		we ignore that we control our selfs with our commands we effect the 
+		future with our judgement on other numbers we are the one who is in 
+		control but for sorry money and orders love always can ruend people 
+		who is human who is numbers and the sad truth is that we will still 
+		live that way until suddenly some disaster happens to all numbers and then we 
+		become just hundreds and no number know what is going to happen then 
+		but if we could change things from now we can stop this from happening 
+		by changing the world rules entierly and start from the beaginning 
+		from the zero point and then we can be free to decide our destiny 
+		but we have short eyes to see that from here but it's coming however 
+		we want or not all what we have to do is just to take a peek to the 
+		results we never learn at all. 
+
+
+
+
+events:
+	
+
+
+
+
+
+
+
+
+
+
+details:
+	
+
+
+
+
+
+
+ending:
+	
