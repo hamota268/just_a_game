@@ -1,7 +1,7 @@
 # created by HAMOTA
 I am hamota someone you don't know at all i am a compuer science student for three years.
 And i hope you find my creations helpful for you.
-@be_creative.
+@be_creative
 
 # projects which you will never see twice in your life.
 My projects concentration on being useful and special as possible.
@@ -28,5 +28,5 @@ First you need to have pip to install requirements for the game easly just run g
 Then you need to install the used modules in the game so run the module_installer,
 after get_pip if you don't have pip installed
 And then you are ready to go.
-@enjoy.
+@enjoy_boy
 @peace_out
