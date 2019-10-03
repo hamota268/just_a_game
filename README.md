@@ -6,7 +6,7 @@ And i hope you find my creations helpful for you.
 # projects which you will never see twice in your life.
 My projects concentration on being useful and special as possible.
 And poroblem solver for society
-I just made a very simple game to be my entry to github community and hope you to like.
+I just made a very simple game to be my entry to github community and hope you to like it.
 @choose_right
 
 # FIRST_PROJECT
