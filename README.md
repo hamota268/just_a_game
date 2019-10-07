@@ -17,7 +17,7 @@ If they didn't do something good for them selfs so, you should wake them up too.
 This is what you do for your people share your experiment with them.
 @experiment_experince
 
-# DON'T WAIT FOR THE CONSEQUENCES.
+# BE CREATIVE
 SHARE IT NOW.
 @sharing_knowing
 
