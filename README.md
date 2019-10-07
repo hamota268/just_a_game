@@ -28,5 +28,4 @@ First you need to have pip to install requirements for the game easly just run g
 Then you need to install the used modules in the game so run the module_installer,
 after get_pip if you don't have pip installed,
 And then you are ready to go.
-@enjoy_boy
 @peace_out
