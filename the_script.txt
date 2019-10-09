@@ -6,7 +6,7 @@
 
 
 charachters:
-	john santos:
+	john garcin:
 		he is a 25 years old man which is lonley without any family,
 		his mother died when he was 9 years old but he remeber her well,
 		his father left his mom once he was born and he grow up with his 
@@ -63,7 +63,7 @@ charachters:
 		series about everything in buissness and a hard to deal with preson.
 
 beginning:
-	HAMOTA :
+	john garcin :
 		hello man probably you don't know who am i, i mean of course you don't 
 		because i am no one , i am just a number for people just like you 
 		who ever you are because we all are represinting something bigger than 
