@@ -23,8 +23,8 @@ SHARE IT NOW.
 
 # Installation
 make sure you have python3 for this game.
-First you need to have pip to install requirements for the game easly just run get_pip,
-Then you need to install the used modules in the game so run pip install -r requirements.txt,
+First you need to have pip to install requirements for the game easly just run # get_pip ,
+Then you need to install the used modules in the game so run # pip install -r requirements.txt ,
 after get_pip if you don't have pip installed,
 And then you are ready to go.
 @peace_out
